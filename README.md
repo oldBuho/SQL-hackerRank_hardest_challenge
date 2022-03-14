@@ -1,4 +1,4 @@
-This is the solution for the hardest SQL challenge on HackerRank
+This is the solution for the hardest SQL challenge on HackerRank ::  <br>  https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem
 
 I´m leaving here two functional queries:
 <br>
